@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main-box{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: #6314A5;
+}
+
+#box{
+    height: 300px;
+    width: 500px;
+    background: rgba(14,110,255);
+    border-radius: 10px;
+}
+
+h4{
+    display: inline;
+}
+
+h4 p{
+    display: inline;
+}
